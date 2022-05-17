@@ -1,0 +1,6 @@
+pretrained_models/
+audio*/
+*separated_stems/
+venv/
+__pycache__/
+inputFile.txt
